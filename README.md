@@ -82,7 +82,3 @@ else:
 
 # Result:
 Thus implementing a Sudoku Solver from scratch is done successfully
-
-
-
-
