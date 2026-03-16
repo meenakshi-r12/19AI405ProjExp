@@ -77,7 +77,7 @@ else:
 ```
 # Output:
 
-
+![img](https://github.com/meenakshi-r12/19AI405ProjExp/blob/main/pro%20img.png)
 
 
 # Result:
